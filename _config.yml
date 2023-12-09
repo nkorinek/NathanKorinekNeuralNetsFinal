@@ -1,0 +1,13 @@
+# Configuration file for website
+title: Nathan Korinek
+
+description: Earth Data Scientist
+
+#logo: docs/assets/profile.png
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+remote_theme: pages-themes/midnight@v0.2.0
